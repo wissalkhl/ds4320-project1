@@ -55,11 +55,11 @@ The objective of this project falls under financial fraud detection. Transaction
 
 | Paper Title | Description | Link |
 |-----|-----|-----|
-| Fraud Detection Overview | This article contains background information about some of the most widely used fraud detection methods employed by banks. | [link](docs/background_readings/fraud_detection_overview.pdf |
-| Banking Fraud Statistics | General information about fraud within financial institutions. | [link](docs/background_readings/banking_fraud_statistics.pdf |
-| Machine Learning & Fraud Detection | This paper goes over machine learning algorithms being used to predict fraud. |[link](docs/background_readings/machine_learning_fraud_detection.pdf |
-| Anomaly Detection and Fraud | This article reviews how anomaly detection can be used to detect fraud through suspicious transactions. | [link](docs/background_readings/anomaly_detection_finance.pdf |
-| Fraud Prevention | Overview of techniques used to help prevent fraud. | [link](docs/background_readings/fraud_prevention_strategies.pdf |
+| Fraud Detection Overview | This article contains background information about some of the most widely used fraud detection methods employed by banks. | [link](docs/background_readings/fraud_detection_overview.pdf) |
+| Banking Fraud Statistics | General information about fraud within financial institutions. | [link](docs/background_readings/banking_fraud_statistics.pdf) |
+| Machine Learning & Fraud Detection | This paper goes over machine learning algorithms being used to predict fraud. |[link](docs/background_readings/machine_learning_fraud_detection.pdf) |
+| Anomaly Detection and Fraud | This article reviews how anomaly detection can be used to detect fraud through suspicious transactions. | [link](docs/background_readings/anomaly_detection_finance.pdf) |
+| Fraud Prevention | Overview of techniques used to help prevent fraud. | [link](docs/background_readings/fraud_prevention_strategies.pdf) |
 
 
 
