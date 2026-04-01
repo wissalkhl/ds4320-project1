@@ -1,24 +1,33 @@
 # DS 4320 Project 1: Credit Card Fraud Detection
 
 ## Executive Summary
-This project builds a machine learning model to detect fraudulent credit card transactions using transaction data.
+It's a relational data science project involving credit card fraud detection. Contents of this repository include the structured dataset stored on UVA OneDrive, Python scripts used to convert raw data into a relational database, DUCKDB based machine learning pipeline in notebook and markdown versions, and press release aimed at general audiences. The purpose of this project was to find out if transaction-level data can be analyzed to detect fraudulent credit card transactions.
+
+## Name
+Wissal Khlouf
+
+## NetID
+hta4yb
+
+## DOI 
 
 ## Problem Definition
 
-### General Problem
+### Initial General Problem
 Detecting credit card fraud.
 
-### Specific Problem
-Build a model that predicts whether a transaction is fraudulent based on transaction features.
+### Refined Specific Problem
+Create a model that can determine if a credit card transaction is fraudulent based off of transaction-level data.
 
-### Rationale
-The general problem is broad. Focusing on transaction-level prediction makes it measurable and solvable.
+### Rationale for Refinement
+Credit card fraud detection was made more specific because the general task can include different institutions, data sources, types of fraud, etc. Limiting it to transaction level prediction will make it more measurable/formattable to the data science workflow. From here, we will be able to answer if we can predict fraud with numerical features given about each transaction.
 
 ### Motivation
-Financial institutions process millions of transactions daily, making fraud detection difficult. This project aims to improve detection using data.
+Credit card frauds can lead to monetary losses for banks, payment processors, and customers. Since they are often disguised as legitimate transactions, frauds are hard to catch in a quick fashion and with high accuracy. This project seeks to help with fraud screening and answer if we can detect fraud based off of historical transactions.
 
 ### Press Release
-[Link here]
+**Headline:** New Data Pipeline Helps Identify High-Risk Credit Card Transactions  
+[Read the press release](docs/press_release.md)
 
 ---
 
@@ -38,6 +47,8 @@ Financial institutions process millions of transactions daily, making fraud dete
 ---
 
 ## Links
-- Data:
-- Pipeline:
-- Press Release:
+- **Press Release:** [press_release.md](docs/press_release.md)
+- **Data Folder:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/g/personal/hta4yb_virginia_edu/IgDn78txeup2TJ6ZO7KaxKYxAVmvTCrzxdH-kM5ACP7pm_0?e=xxLt6D)
+- **Pipeline Notebook:** [pipeline.ipynb](pipeline/pipeline.ipynb)
+- **Pipeline Markdown:** [pipeline.md](pipeline/pipeline.md)
+- **License:** [MIT License](LICENSE)
