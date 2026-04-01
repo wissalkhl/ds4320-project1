@@ -12,6 +12,19 @@ hta4yb
 ## DOI 
 10.5281/zenodo.19362866
 
+
+---
+
+## Links
+- **Press Release:** [press_release.md](docs/press_release.md)
+- **Data Folder:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/g/personal/hta4yb_virginia_edu/IgDn78txeup2TJ6ZO7KaxKYxAVmvTCrzxdH-kM5ACP7pm_0?e=xxLt6D)
+- **Pipeline Notebook:** [pipeline.ipynb](pipeline/pipeline.ipynb)
+- **Pipeline Markdown:** [pipeline.md](pipeline/pipeline.md)
+- **License:** [MIT License](LICENSE)
+
+---
+
+
 ## Problem Definition
 
 ### Initial General Problem
@@ -126,9 +139,3 @@ The majority of numerical features are products of PCA which means we don't know
 
 ---
 
-## Links
-- **Press Release:** [press_release.md](docs/press_release.md)
-- **Data Folder:** [UVA OneDrive Data Folder](https://myuva-my.sharepoint.com/:f:/g/personal/hta4yb_virginia_edu/IgDn78txeup2TJ6ZO7KaxKYxAVmvTCrzxdH-kM5ACP7pm_0?e=xxLt6D)
-- **Pipeline Notebook:** [pipeline.ipynb](pipeline/pipeline.ipynb)
-- **Pipeline Markdown:** [pipeline.md](pipeline/pipeline.md)
-- **License:** [MIT License](LICENSE)
